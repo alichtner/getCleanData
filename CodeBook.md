@@ -17,7 +17,7 @@ The columns are:
 
 - 1 - Subject
 - 2 - Activity
-- 3:81 - 79 average means and average standard deviations of measurements made from the wearable devices
+- 3:81 - 79 average means and average standard deviations of measurements made from the wearable devices. These numbers are derived from the accelerometers and gyroscopes contained within the Samsung phone used by the test subjects. 
 
 
 
